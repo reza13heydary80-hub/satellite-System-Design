@@ -1,4 +1,5 @@
-# satellite-System-Design
+# System Design Of 3U Precision Agriculture CubeSat
+
 Here, the system design of a precision agricultural cube is presented.
 
 The project is defined in 5 phases, as follows:
