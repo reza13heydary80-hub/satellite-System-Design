@@ -4,7 +4,7 @@ Here, the system design of a precision agricultural cube is presented.
 
 The project is defined in 5 phases, as follows:
 
-1- Phase 0(SSD-Project-Phase0): In this phase, the mission definition is done.
+1- Phase 0 (PROJ-SYS-RPT-001): In this phase, the mission definition is done. Also, the MATLAB simulation code for this phase is provided, called PROJSYScode001.
 
 2- Phase A(PROJ-SYS-RPT-002): In this phase, the mission requirements are extracted and the initial concept of operations and initial sizing are done.
 
